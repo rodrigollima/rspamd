@@ -1,1 +1,2 @@
-#Rate limite com Rspamd
+#Rspamd Outbound#
+- Ratelimit
